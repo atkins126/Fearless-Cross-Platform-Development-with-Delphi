@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompanyName</key>
+	<string></string>
+	<key>FileDescription</key>
+	<string></string>
+	<key>FileVersion</key>
+	<string>1.0.0.0</string>
+	<key>InternalName</key>
+	<string></string>
+	<key>LegalCopyright</key>
+	<string></string>
+	<key>LegalTrademarks</key>
+	<string></string>
+	<key>OriginalFilename</key>
+	<string></string>
+	<key>ProductName</key>
+	<string></string>
+	<key>ProductVersion</key>
+	<string>1.0.0.0</string>
+	<key>Comments</key>
+	<string></string>
+	<key>CFBundleName</key>
+	<string></string>
+
+	<key>CFBundleIconFile</key>
+	<string>Escape1985.icns</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+
+</dict>
+</plist>
